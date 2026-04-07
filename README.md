@@ -32,7 +32,7 @@ Repo hiện chưa có ảnh chụp màn hình. Bạn có thể thêm bằng các
 
 ```md
 <p align="center">
-  <img src="assets/h1.jpg" alt="Demo 1" width="900">
+  <img src="https://raw.githubusercontent.com/Szero-White/Game-Caro/main/assets/h1.jpg" width="900" alt="Demo 1">
 </p>
 
 <p align="center">
