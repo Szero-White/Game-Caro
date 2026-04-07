@@ -189,5 +189,3 @@ Trong `findBestMove()`:
 ---
 
 ## 📄 License
-
-Tùy bạn bổ sung license (MIT/Apache-2.0...).
