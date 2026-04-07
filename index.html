@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Co Caro</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <h1>CO CARO</h1>
+      <p class="subtitle">Dat 5 quan lien tiep de chien thang</p>
+    </header>
+
+    <section class="panel">
+      <div class="status-wrap">
+        <p id="status" class="status-text">Luot: X</p>
+      </div>
+      <div class="actions">
+        <label class="mode-control" for="modeSelect">Che do</label>
+        <select id="modeSelect" class="mode-select" aria-label="Chon che do choi">
+          <option value="pvp">2 nguoi</option>
+          <option value="ai">Dau voi may</option>
+        </select>
+        <button id="resetBtn" class="btn">Choi lai</button>
+      </div>
+    </section>
+
+    <section class="board-wrap">
+      <div id="board" class="board" aria-label="Ban co caro"></div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
