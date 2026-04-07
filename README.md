@@ -30,7 +30,7 @@ Repo hiện chưa có ảnh chụp màn hình. Bạn có thể thêm bằng các
 2) Lưu vào thư mục `assets/` (ví dụ `assets/demo.png`)
 3) Chèn vào README:
 
-```md
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Szero-White/Game-Caro/main/assets/h1.jpg" width="900" alt="Demo 1">
 </p>
@@ -42,7 +42,7 @@ Repo hiện chưa có ảnh chụp màn hình. Bạn có thể thêm bằng các
 <p align="center">
   <img src="assets/h3.jpg" alt="Demo 3" width="900">
 </p>
-```
+
 
 
 ---
