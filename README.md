@@ -31,8 +31,19 @@ Repo hiện chưa có ảnh chụp màn hình. Bạn có thể thêm bằng các
 3) Chèn vào README:
 
 ```md
-![Demo](assets/demo.png)
+<p align="center">
+  <img src="assets/h1.jpg" alt="Demo 1" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/h2.jpg" alt="Demo 2" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/h3.jpg" alt="Demo 3" width="900">
+</p>
 ```
+
 
 ---
 
